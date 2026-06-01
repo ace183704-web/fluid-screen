@@ -1,0 +1,6 @@
+{
+  "name": "High-Resolution Fluid Simulation",
+  "description": "A high-performance interactive WebGL fluid simulation with bloom, sunrays, audio-reactivity, and demo modes, ported from vanilla JavaScript to React with a full parameter control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
